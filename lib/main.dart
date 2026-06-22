@@ -130,7 +130,7 @@ class HomeScreen extends StatelessWidget {
                           ),
                           Image.asset(
                             'assets/images/KidneyDialysis.png',
-                            width: 200,
+                            width: 30,
                             height: 120,
                           ),
                         ],
